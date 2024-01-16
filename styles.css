@@ -76,6 +76,7 @@ p {
     background-position: center;
     background-size: cover;
     border: 3px solid transparent;
+    border-radius: 50%;
 }
 
 .color-btn:checked+label {
